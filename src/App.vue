@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div>
     <a href="https://zone.eu/" target="_blank">
-      <img src="../zone_profile_square.svg" class="logo" alt="Zone logo" />
+      <img src="../public/zone_profile_square.svg" class="logo" alt="Zone logo" />
     </a>
   </div>
   <HelloWorld msg="Hello World!" />
